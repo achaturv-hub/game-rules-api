@@ -22,7 +22,7 @@ Ensure that the file is properly configured based on the environment, adjusting 
 - [Python](https://www.python.org/) 
 - [Langchain](https://nextjs.org/) - LLM framework
 - [Ollama](https://ollama.com/) - Platform for running LLMs
-- [Chroma](https://www.npmjs.com/package/react-camera-pro) -Vector database
+- [Chroma](https://www.trychroma.com/) -Vector database
 
 ## Author
 
